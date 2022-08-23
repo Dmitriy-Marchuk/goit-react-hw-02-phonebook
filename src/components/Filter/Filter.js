@@ -1,6 +1,6 @@
 import React from 'react';
 import './_filter.scss';
-import PropTypes, { string } from 'prop-types';
+import PropTypes from 'prop-types';
 
 const Filter = ({ value, onChange }) => (
   <>
